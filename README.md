@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel de Oliveira Valadares
 
-**Software Engineering Student | Former Mechanical Engineer | Aspiring Back-End Developer**
+**Back-End Developer | Former Mechanical Engineer**
 
 I'm a former mechanical engineer currently transitioning to the world of software engineering.
 
